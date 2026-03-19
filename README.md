@@ -50,6 +50,15 @@ I’m interested in projects that let me:
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=gold" />
 
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=gold" />
+
+  <!-- Vite -->
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=gold" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=gold" />
+
 </p>
 
 ---
