@@ -61,7 +61,7 @@ Built end-to-end — Figma design → React + Vite → live on Vercel.
 ### Dev Workspace Portfolio
 Frontend developer identity system designed to feel like a SaaS product dashboard — not a generic template.  
 Originally built in HTML/CSS/JS, fully converted to React + Vite + Tailwind CSS.  
-🔗 Live soon · [GitHub](https://github.com/LeonScriptJS)
+🔗 [Live Demo](https://leonscriptjs-portfolio.vercel.app/) · [GitHub](https://github.com/LeonScriptJS)
 
 ---
 
