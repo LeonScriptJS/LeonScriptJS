@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7D774&size=22&center=true&vCenter=true&width=600&lines=Building+interfaces+that+feel+like+real+products.;ALX+Certified+Frontend+Developer.;React+%7C+Vite+%7C+Tailwind+CSS+%7C+JavaScript;Open+to+Internships+%26+Entry-Level+Roles." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7D774&size=22&center=true&vCenter=true&width=600&lines= Building+interfaces+that+feel+like+real+products.;ALX+Certified+Frontend+Developer.;React+%7C+Vite+%7C+Tailwind+CSS+%7C+JavaScript;Open+to+Internships+%26+Entry-Level+Roles." />
 </p>
 
 <h3 align="center">Frontend Developer · ALX Certified · BSc Computer Science @ Miva</h3>
