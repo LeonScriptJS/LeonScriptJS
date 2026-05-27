@@ -80,15 +80,6 @@ Demonstrates keyboard navigation, clean CSS fundamentals, and cross-device compa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonScriptJS&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonScriptJS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="left">
