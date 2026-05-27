@@ -1,113 +1,93 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm <strong>Leonard</strong>, but please call me <strong> LEON</strong>.</h1>
+<h1 align="center">👋 Hi, I'm <strong>Leonard</strong> — call me <strong>LEON</strong>.</h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7D774&size=22&center=true&vCenter=true&width=600&lines=Building+aesthetic+interfaces+with+purpose.;Frontend+Developer+in+Training.;ALX+Frontend+Web+Development+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7D774&size=22&center=true&vCenter=true&width=600&lines=Building+interfaces+that+feel+like+real+products.;ALX+Certified+Frontend+Developer.;React+%7C+Vite+%7C+Tailwind+CSS+%7C+JavaScript;Open+to+Internships+%26+Entry-Level+Roles." />
 </p>
 
-<h3 align="center">Aspiring Frontend Engineer | Focused on Clean, Modern & Functional Design</h3>
-
-<!--
-<p align="center">
-  <img src="https://via.placeholder.com/1000x300/000000/FFD700?text=Codes_by_LEON+-+Gold+%7C+Black+Tech+Banner" alt="Banner" width="100%" />
-</p>
+<h3 align="center">Frontend Developer · ALX Certified · BSc Computer Science @ Miva</h3>
 
 ---
--->
 
 ## 🌟 About Me
 
-I’m currently learning **Frontend Web Development at ALX**, building the discipline and creativity required to develop **clean, modern, responsive, and visually balanced websites**.
+I'm a **Frontend Developer** based in Lagos, Nigeria, ALX certified, currently studying **Computer Science at Miva Open University**, and building interfaces that are designed to feel like real products, not just code exercises.
 
 For me, frontend development is more than just code.  
-It’s the satisfying process of bringing ideas to life — with structure, balance, and intentional design behind every element.
+It's the intentional process of turning ideas into deployable systems — with clean architecture, purposeful design, and zero unnecessary complexity.
 
 I enjoy the challenge:  
-**solving difficult problems, breaking things, understanding my mistakes, improving the logic, and coming back stronger each time.**
+**solving real problems, building from Figma to Vercel, understanding what broke and why, and shipping something better each time.**
 
-My long-term aim is to grow into a **multidisciplinary creator** — someone who blends aesthetics, structure, and problem-solving to build digital experiences that are purposeful, intuitive, and truly enjoyable to use.
+My aim is to grow into a frontend engineer who can own a product's UI end-to-end — from the design system to the deployed component, built right the first time.
 
-I’m interested in projects that let me:
-- Express creativity in interface design  
-- Build clean and responsive layouts  
-- Practice modern frontend techniques  
-- Improve usability and visual hierarchy  
-- Turn concepts into real, functional experiences  
+I'm interested in work that lets me:
+- Build clean, component-based UI systems in React
+- Go from Figma design to live deployment without cutting corners
+- Write code that's readable, maintainable, and production-ready
+- Solve layout and state problems with precision
+- Contribute to real teams shipping real products
 
 ---
 
-## 🧠 Tech & Tools I’m Learning and Using
+## 🧠 Tech & Tools
 
 <p align="left">
 
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=gold" />
-
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=gold" />
-
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=gold" />
-
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=gold" />
-
-  <!-- Vite -->
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=gold" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=gold" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-000000?style=for-the-badge&logo=javascript&logoColor=gold" />
+  <img src="https://img.shields.io/badge/React_18-000000?style=for-the-badge&logo=react&logoColor=gold" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=gold" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=gold" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=gold" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=gold" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=gold" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=gold" />
 
 </p>
 
 ---
 
-## 🎓 My ALX Journey
+## 🚀 Featured Projects
 
-- 🚀 Learning the foundations of modern frontend architecture  
-- 🎨 Practicing intentional, balanced UI design  
-- 🧩 Strengthening logic and debugging skills through consistent challenges  
-- 👥 Growing through community learning and collaboration  
-- ⚡ Building the discipline needed to ship real-world projects  
-
-<!--
----
-
-## 💻 Featured Projects (Coming Soon)
-
-### 🔹 **Project 1 – Responsive Website**
-<p>
-  <img src="https://via.placeholder.com/1000x400/111111/FFD700?text=Project+Screenshot" width="100%" alt="Project Screenshot" />
-</p>
-<p>
-  A clean, responsive website built with **HTML, CSS, and JavaScript**, focused on structure and visual clarity.  
-  🔗 Repository link coming soon.
-</p>
+### Cerebra Quiz App
+IQ assessment platform with adaptive scoring, real-time feedback, and a mobile-first UI.  
+Built end-to-end — Figma design → React + Vite → live on Vercel.  
+🔗 [Live Demo](https://cerebra-quiz-app.vercel.app) · [GitHub](https://github.com/LeonScriptJS/Cerebra-Quiz-App)
 
 ---
 
-### 🔹 **Project 2 – UI Component or Interactive Feature**
-<p>
-  <img src="https://via.placeholder.com/1000x400/111111/FFD700?text=Project+Screenshot" width="100%" alt="Project Screenshot" />
-</p>
-<p>
-  A lightweight, elegant UI feature combining creativity and functionality.  
-  🔗 Repository link coming soon.
-</p>
+### Dev Workspace Portfolio
+Frontend developer identity system designed to feel like a SaaS product dashboard — not a generic template.  
+Originally built in HTML/CSS/JS, fully converted to React + Vite + Tailwind CSS.  
+🔗 Live soon · [GitHub](https://github.com/LeonScriptJS)
 
 ---
--->
-<!--
+
+### Login Page UI
+Responsive, accessible login interface — zero frameworks, built with HTML, CSS, and vanilla JavaScript.  
+Demonstrates keyboard navigation, clean CSS fundamentals, and cross-device compatibility.  
+🔗 [Live Demo](https://modern-login-ui-weld.vercel.app) · [GitHub](https://github.com/LeonScriptJS/Login_Page_Dev)
+
+---
+
+## 🎓 Certifications
+
+- ✅ **ALX Certified Front-End Web Developer** — Mar 2026 · [Verify](https://savanna.alxafrica.com/certificates/Bx8GEHrSCn)
+- ✅ **ALX Certified Freelance Professional** — Aug 2025 · [Verify](https://savanna.alxafrica.com/certificates/Xscx7LmNzG)
+- ✅ **ALX Professional Foundations & Development Skills** — Sep 2025 · [Verify](https://savanna.alxafrica.com/certificates/fXc5hPH3Fx)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codes_by_LEON&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes_by_LEON&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonScriptJS&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonScriptJS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
----
--->
 
+---
 
 ## 📬 Connect With Me
 
@@ -115,10 +95,10 @@ I’m interested in projects that let me:
   <a href="https://www.linkedin.com/in/leonard-c-udegbulem">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Dhe_Noblesse?t=IWNwM6YfT7F3yV9His1gNQ&s=09">
+  <a href="https://twitter.com/LeonScriptJS">
     <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:leonardudegbulem@gmail.com">
+  <a href="mailto:leonard.c.udegbulem@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -126,15 +106,5 @@ I’m interested in projects that let me:
 ---
 
 <p align="center">
-  🔥 <em>Thanks for visiting! More projects coming soon as I continue building, learning, and refining my craft.</em> 🔥
+  <em>Open to frontend internship and entry-level opportunities.</em>
 </p>
-
-## 🔥Connect, Collaborate, Hire
-<p align="center">
-  💡 <strong>Looking for a frontend developer who values clean design, functional code, and creative solutions?</strong><br>
-  🚀 Let’s collaborate, tackle challenging projects, or build something impactful together!<br>
-  <strong>Whether you’re a hiring manager, a mentor, or a fellow developer:</strong>  
-  <a href="mailto:leonardudegbulem@gmail.com">📧 Reach out via Email</a> | 
-  <a href="https://www.linkedin.com/in/leonard-c-udegbulem">🔗 Connect on LinkedIn</a>
-</p>
-
